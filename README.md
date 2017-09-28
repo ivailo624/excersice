@@ -22,6 +22,10 @@ Making other changes again from GitHub
 
 Changes for GitBash
 
+changes from branchName
+
+changes from master
+
 
 
 
